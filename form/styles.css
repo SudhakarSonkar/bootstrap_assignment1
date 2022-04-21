@@ -1,0 +1,11 @@
+body{
+    background-color: #33cfee;
+}
+
+header{
+    text-align: center;
+    width: 50%;
+    padding: 30px;
+    border-style: double;
+    margin: 2% 20%;
+}
